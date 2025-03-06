@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="_未命名的渐变_2" data-name="未命名的渐变 2" x1="106.19" y1="718.66" x2="107.19" y2="718.66" gradientTransform="translate(-8510.99 116311.22) scale(85.98 -161.25)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#373737"/>
+      <stop offset=".5" stop-color="#555"/>
+      <stop offset="1" stop-color="#373737"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_3" data-name="未命名的渐变 3" x1="113.17" y1="717.41" x2="113.17" y2="716.41" gradientTransform="translate(-3174.21 57852.51) scale(33.75 -80.16)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#626262"/>
+      <stop offset="1" stop-color="#2f2f2f"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_3-2" data-name="未命名的渐变 3" x1="113.17" x2="113.17" gradientTransform="translate(-3140.46 57852.51) scale(33.75 -80.16)" xlink:href="#_未命名的渐变_3"/>
+    <radialGradient id="_未命名的渐变_4" data-name="未命名的渐变 4" cx="132.51" cy="706.46" fx="132.51" fy="706.46" r=".5" gradientTransform="translate(-927.96 14526.76) scale(12 -20)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#666"/>
+      <stop offset="1" stop-color="#333"/>
+    </radialGradient>
+  </defs>
+  <rect y="0" width="800" height="600" rx="10" ry="10" style="fill: #f5f5f5;"/>
+  <text transform="translate(283 50)" style="fill: #333; font-family: AdobeSongStd-Light-GBpc-EUC-H, &apos;Adobe Song Std&apos;; font-size: 24px; font-weight: 300; isolation: isolate;"><tspan x="0" y="0">廉价鼠标按键自定义解决方案</tspan></text>
+  <rect x="100" y="80" width="600" height="140" rx="8" ry="8" style="fill: #ffebee; stroke: #e57373; stroke-width: 2px;"/>
+  <text transform="translate(386.5 100)" style="fill: #d32f2f; font-family: AdobeSongStd-Light-GBpc-EUC-H, &apos;Adobe Song Std&apos;; font-size: 18px; font-weight: 300; isolation: isolate;"><tspan x="0" y="0">问题</tspan></text>
+  <g>
+    <text transform="translate(130 130)" style="fill: #333; font-size: 14px; isolation: isolate;"><tspan x="0" y="0" style="font-family: ArialMT, Arial;">• </tspan><tspan x="8.79" y="0" style="font-family: AdobeSongStd-Light-GBpc-EUC-H, &apos;Adobe Song Std&apos;; font-weight: 300;">廉价无线鼠标</tspan><tspan x="92.79" y="0" style="font-family: ArialMT, Arial;">(≤¥60)</tspan><tspan x="133.16" y="0" style="font-family: AdobeSongStd-Light-GBpc-EUC-H, &apos;Adobe Song Std&apos;; font-weight: 300;">通常无官方驱动支持自定义按键</tspan></text>
+    <text transform="translate(130 160)" style="fill: #333; font-size: 14px; isolation: isolate;"><tspan x="0" y="0" style="font-family: ArialMT, Arial;">• </tspan><tspan x="8.79" y="0" style="font-family: AdobeSongStd-Light-GBpc-EUC-H, &apos;Adobe Song Std&apos;; font-weight: 300;">我的问题：鼠标默认的前进</tspan><tspan x="176.79" y="0" style="font-family: ArialMT, Arial;">/</tspan><tspan x="180.68" y="0" style="font-family: AdobeSongStd-Light-GBpc-EUC-H, &apos;Adobe Song Std&apos;; font-weight: 300;">后退按钮在部分软件无法正常工作</tspan></text>
+    <text transform="translate(130 190)" style="fill: #333; font-size: 14px; isolation: isolate;"><tspan x="0" y="0" style="font-family: ArialMT, Arial;">• </tspan><tspan x="8.79" y="0" style="font-family: AdobeSongStd-Light-GBpc-EUC-H, &apos;Adobe Song Std&apos;; font-weight: 300;">原因：廉价鼠标调用</tspan><tspan x="134.79" y="0" style="font-family: ArialMT, Arial;">Windows</tspan><tspan x="191.58" y="0" style="font-family: ArialMT, Arial; letter-spacing: -.06em;"> </tspan><tspan x="194.7" y="0" style="font-family: ArialMT, Arial;">API</tspan><tspan x="217.27" y="0" style="font-family: AdobeSongStd-Light-GBpc-EUC-H, &apos;Adobe Song Std&apos;; font-weight: 300;">而非快捷键</tspan><tspan x="287.27" y="0" style="font-family: ArialMT, Arial;">(Alt+←/→)</tspan></text>
+  </g>
+  <rect x="100.39" y="243.11" width="600" height="240" rx="8" ry="8" style="fill: #e8f5e9; stroke: #81c784; stroke-width: 2px;"/>
+  <text transform="translate(264.41 263.11)" style="fill: #2e7d32; font-size: 18px; isolation: isolate;"><tspan x="0" y="0" style="font-family: AdobeSongStd-Light-GBpc-EUC-H, &apos;Adobe Song Std&apos;; font-weight: 300;">解决方案</tspan><tspan x="72" y="0" style="font-family: Arial-BoldMT, Arial; font-weight: 700;">: X-Mouse Button Control</tspan></text>
+  <g>
+    <g>
+      <g>
+        <path d="M235.91,288.11h110c13.81,0,25,11.19,25,25h0c0,13.81-11.19,25-25,25h-110c-13.81,0-25-11.19-25-25h0c0-13.81,11.19-25,25-25Z" style="fill: #b2dfdb; stroke: #26a69a; stroke-width: 2px;"/>
+        <text transform="translate(269.91 318.11)" style="fill: #00695c; font-family: AdobeSongStd-Light-GBpc-EUC-H, &apos;Adobe Song Std&apos;; font-size: 14px; font-weight: 300; isolation: isolate;"><tspan x="0" y="0">下载安装</tspan></text>
+      </g>
+      <text transform="translate(245.91 358.11)" style="font-family: AdobeSongStd-Light-GBpc-EUC-H, &apos;Adobe Song Std&apos;; font-size: 12px; font-weight: 300; isolation: isolate;"><tspan x="0" y="0">官方网站获取最新版本</tspan></text>
+      <g>
+        <path d="M451.45,288.11h110c13.81,0,25,11.19,25,25h0c0,13.81-11.19,25-25,25h-110c-13.81,0-25-11.19-25-25h0c0-13.81,11.19-25,25-25Z" style="fill: #b2dfdb; stroke: #26a69a; stroke-width: 2px;"/>
+        <text transform="translate(480.2 318.11)" style="fill: #00695c; font-family: AdobeSongStd-Light-GBpc-EUC-H, &apos;Adobe Song Std&apos;; font-size: 14px; font-weight: 300; isolation: isolate;"><tspan x="0" y="0">自定义按键</tspan></text>
+      </g>
+      <text transform="translate(468.28 354.36)" style="font-size: 12px; isolation: isolate;"><tspan x="0" y="0" style="font-family: AdobeSongStd-Light-GBpc-EUC-H, &apos;Adobe Song Std&apos;; font-weight: 300;">配置鼠标按键</tspan><tspan x="72" y="0" style="font-family: ArialMT, Arial;">4</tspan><tspan x="78.67" y="0" style="font-family: AdobeSongStd-Light-GBpc-EUC-H, &apos;Adobe Song Std&apos;; font-weight: 300;">和</tspan><tspan x="90.67" y="0" style="font-family: ArialMT, Arial;">5</tspan></text>
+    </g>
+    <path d="M392.85,307.11v12l18-6-18-6Z" style="fill: #00695c;"/>
+  </g>
+  <g>
+    <rect x="154.37" y="383.39" width="500" height="80" rx="5" ry="5" style="fill: #fff; stroke: #aaa;"/>
+    <text transform="translate(370.54 403.39)" style="fill: #333; font-size: 14px; isolation: isolate;"><tspan x="0" y="0" style="font-family: AdobeSongStd-Light-GBpc-EUC-H, &apos;Adobe Song Std&apos;; font-weight: 300;">按键配置详情</tspan><tspan x="84" y="0" style="font-family: Arial-BoldMT, Arial; font-weight: 700;">:</tspan></text>
+    <text transform="translate(175.11 431.33)" style="fill: #333; font-size: 14px; isolation: isolate;"><tspan x="0" y="0" style="font-family: ArialMT, Arial;">• </tspan><tspan x="8.79" y="0" style="font-family: AdobeSongStd-Light-GBpc-EUC-H, &apos;Adobe Song Std&apos;; font-weight: 300;">前进键</tspan><tspan x="50.79" y="0" style="font-family: ArialMT, Arial;">(4)</tspan><tspan x="67.9" y="0" style="font-family: AdobeSongStd-Light-GBpc-EUC-H, &apos;Adobe Song Std&apos;; font-weight: 300;">：模拟按键</tspan><tspan x="137.9" y="0" xml:space="preserve" style="font-family: ArialMT, Arial;"> {A</tspan><tspan x="155.8" y="0" style="font-family: ArialMT, Arial; letter-spacing: -.07em;">L</tspan><tspan x="162.55" y="0" style="font-family: ArialMT, Arial;">T}{LEFT}</tspan></text>
+    <text transform="translate(174.37 453.39)" style="fill: #333; font-size: 14px; isolation: isolate;"><tspan x="0" y="0" style="font-family: ArialMT, Arial;">• </tspan><tspan x="8.79" y="0" style="font-family: AdobeSongStd-Light-GBpc-EUC-H, &apos;Adobe Song Std&apos;; font-weight: 300;">后退键</tspan><tspan x="50.79" y="0" style="font-family: ArialMT, Arial;">(5)</tspan><tspan x="67.9" y="0" style="font-family: AdobeSongStd-Light-GBpc-EUC-H, &apos;Adobe Song Std&apos;; font-weight: 300;">：模拟按键</tspan><tspan x="137.9" y="0" xml:space="preserve" style="font-family: ArialMT, Arial;"> {A</tspan><tspan x="155.8" y="0" style="font-family: ArialMT, Arial; letter-spacing: -.07em;">L</tspan><tspan x="162.55" y="0" style="font-family: ArialMT, Arial;">T}{RIGHT}</tspan></text>
+  </g>
+  <g>
+    <path d="M167.27,516.62h460c11.05,0,20,8.95,20,20h0c0,11.05-8.95,20-20,20H167.27c-11.05,0-20-8.95-20-20h0c0-11.05,8.95-20,20-20Z" style="fill: #bbdefb; stroke: #64b5f6; stroke-width: 2px;"/>
+    <text transform="translate(235.05 545.3)" style="fill: #0d47a1; font-size: 16px; isolation: isolate;"><tspan x="0" y="0" style="font-family: AdobeSongStd-Light-GBpc-EUC-H, &apos;Adobe Song Std&apos;; font-weight: 300;">成功：在所有软件中启用鼠标前进</tspan><tspan x="240" y="0" style="font-family: Arial-BoldMT, Arial; font-weight: 700;">/</tspan><tspan x="244.45" y="0" style="font-family: AdobeSongStd-Light-GBpc-EUC-H, &apos;Adobe Song Std&apos;; font-weight: 300;">后退功能！</tspan></text>
+  </g>
+  <g>
+    <path d="M622.16,427.58c-5-30-5-55,10-70s45-15,60,0,15,40,10,70,2.99,80-40,80c-37,0-35-50-40-80Z" style="fill: url(#_未命名的渐变_2); stroke: #222;"/>
+    <path d="M632.16,357.58c15-15,30-12,30,0v70c-13-2-28-5-30-10-5-20-5-45,0-60Z" style="fill: url(#_未命名的渐变_3); stroke: #222; stroke-width: .5px;"/>
+    <path d="M692.16,357.58c-15-15-30-12-30,0v70c13-2,28-5,30-10,5-20,5-45,0-60Z" style="fill: url(#_未命名的渐变_3-2); stroke: #222; stroke-width: .5px;"/>
+    <ellipse cx="662.16" cy="397.58" rx="6" ry="10" style="fill: url(#_未命名的渐变_4); stroke: #222; stroke-width: .5px;"/>
+    <line x1="662.16" y1="391.58" x2="662.16" y2="403.58" style="fill: none; stroke: #444; stroke-dasharray: 1 1; stroke-width: .5px;"/>
+    <g>
+      <rect x="620.16" y="407.58" width="10" height="18" rx="2" ry="2" style="fill: #e91e63; stroke: #222; stroke-width: .5px;"/>
+      <path d="M622.16,408.58h6c.55,0,1,.45,1,1h0c0,.55-.45,1-1,1h-6c-.55,0-1-.45-1-1h0c0-.55.45-1,1-1Z" style="fill: #ff6090; isolation: isolate; opacity: .7;"/>
+      <text transform="translate(622.38 417.58)" style="fill: #fff; font-family: Arial-BoldMT, Arial; font-size: 10px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">4</tspan></text>
+    </g>
+    <g>
+      <rect x="620.16" y="437.58" width="10" height="18" rx="2" ry="2" style="fill: #2196f3; stroke: #222; stroke-width: .5px;"/>
+      <path d="M622.16,438.58h6c.55,0,1,.45,1,1h0c0,.55-.45,1-1,1h-6c-.55,0-1-.45-1-1h0c0-.55.45-1,1-1Z" style="fill: #90caf9; isolation: isolate; opacity: .7;"/>
+      <text transform="translate(622.38 447.58)" style="fill: #fff; font-family: Arial-BoldMT, Arial; font-size: 10px; font-weight: 700; isolation: isolate;"><tspan x="0" y="0">5</tspan></text>
+    </g>
+    <text transform="translate(717.16 417.58)" style="fill: #e91e63; font-family: AdobeSongStd-Light-GBpc-EUC-H, &apos;Adobe Song Std&apos;; font-size: 14px; font-weight: 300; isolation: isolate;"><tspan x="0" y="0">前进键</tspan></text>
+    <text transform="translate(717.16 447.58)" style="fill: #2196f3; font-family: AdobeSongStd-Light-GBpc-EUC-H, &apos;Adobe Song Std&apos;; font-size: 14px; font-weight: 300; isolation: isolate;"><tspan x="0" y="0">后退键</tspan></text>
+    <line x1="635.16" y1="417.58" x2="712.16" y2="417.58" style="fill: none; stroke: #e91e63; stroke-dasharray: 3 2;"/>
+    <line x1="635.16" y1="447.58" x2="712.16" y2="447.58" style="fill: none; stroke: #2196f3; stroke-dasharray: 3 2;"/>
+  </g>
+</svg>
